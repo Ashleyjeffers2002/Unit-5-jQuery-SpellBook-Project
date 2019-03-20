@@ -1,0 +1,17 @@
+img{
+     height:300px;
+}
+body{
+    background:salmon;
+}
+h1{
+   color:white;
+   font-family: 'Noto Serif', serif;
+}
+h2{
+    color:white;
+}
+h3{
+    font-family: 'Coiny', cursive;
+    font-size:30px;
+}
